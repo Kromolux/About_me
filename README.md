@@ -6,11 +6,19 @@ Currently living in | 🏙️  Berlin
 Age | 41
 Purpose | 🪄 Keeper of ⚖️ balance and 🕊️ peace
 
-Hi my name is René Kaufmann, I am 41 years life experienced and was born in germany Berlin.
+Hi my name is René Kaufmann, I am 41 years life experienced and was born in germany Berlin. I am working on my career change into the IT industry right now. 
 
 In high school I started coding with Turbo Pascal and enjoyed programming with it. But I learned a profession in electrical engineering 🔌 and tried out a lot of different works 🪛 🔧 ,  now I work as an order manager in an office with SAP, Outlook and EXCEL! So later I started programming with Visual Basic and VBA via self study. I really like to write code for office automation in VBA. The last project is for SAP scripting with VBA.
 
 I like gardening🥬🍎, cycling🚴 and reading books 📚, deep intense conversations🤓 and personality development - It is my childhood dream to become a programmer. 
+
+INTERESTS
+
+- Personal development
+- Nutrition
+- Health
+- Science
+- Technology
 
 ## 🙏 **Personality type**: 🧭 [Commander (ENTJ-A)](https://www.16personalities.com/profiles/45aaed8c5607b)
 
