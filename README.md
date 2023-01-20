@@ -12,7 +12,24 @@ In high school I started coding with Turbo Pascal and enjoyed programming with i
 
 I like gardening🥬🍎, cycling🚴 and reading books 📚, deep intense conversations🤓 and personality development - It is my childhood dream to become a programmer. 
 
-INTERESTS
+## EXPERTISE
+* Microsoft Office ⭐⭐⭐⭐
+* Excel ⭐⭐⭐⭐
+* VBA ⭐⭐⭐
+* SAP ⭐⭐⭐
+* C ⭐⭐⭐
+* C++ 98 ⭐⭐⭐
+* Typescript ⭐⭐
+* Linux ⭐⭐
+* Bash ⭐
+* Docker ⭐
+* MySQL ⭐
+
+## 🗣 Languages
+* 🇩🇪 German - native speaker  ⭐⭐⭐⭐
+* 🇬🇧 English - fluent B2      ⭐⭐⭐
+
+## INTERESTS
 
 - Personal development
 - Nutrition
@@ -20,36 +37,6 @@ INTERESTS
 - Science
 - Technology
 
-## 🙏 **Personality type**: 🧭 [Commander (ENTJ-A)](https://www.16personalities.com/profiles/45aaed8c5607b)
-
-### 🛼 **Role**: 🔬 [Analyst](https://www.16personalities.com/articles/roles-analysts)
-  - Thinkers, Not Robots
-  - Driven by Curiosity
-  - Socially Selective
-  - Independent Minds
-  - Problems? What Problems?
-
-### 🧰 **Strategy**: 🧑‍🤝‍🧑 [People Mastery](https://www.16personalities.com/articles/strategies-people-mastery)
-  - Bold and Confident
-  - Nothing to Prove?
-  - Finding Balance
-  - People Masters in Love
-  - Speaking Up
-  - Going For It
-
-### 🎁 **Traits**: 
-* #### 🧿 **Mind -** This trait determines how we interact with our environment.
-  * 📤 Extraverted – 74%
-
-* #### 🔋 **Energy -** This trait shows where we direct our mental energy.
-  * ❤️ Intuitive – 54%
-* #### 🌳 **Nature -** This trait determines how we make decisions and cope with emotions.
-  * 🧠 Thinking – 55%
-* #### ♟️ **Tactics -** This trait reflects our approach to work, planning and decision-making.
-  * ⚖️ Judging – 89%
-* #### 🔮 **Identity -** This trait underpins all others, showing how confident we are in our abilities and decisions.
-  * 💪 Assertive – 85%
- 
 
 Which way do you choose? - You always have to make decisions in your Live!
 
