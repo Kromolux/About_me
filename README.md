@@ -4,7 +4,6 @@
 From | 🇩🇪 Germany - 🏙️ Berlin
 Currently living in | 🏙️  Berlin
 Age | 41
-Purpose | 🪄 Keeper of ⚖️ balance and 🕊️ peace
 
 Hi my name is René Kaufmann, I am 41 years life experienced and was born in germany Berlin. I am working on my career change into the IT industry right now. 
 
@@ -12,22 +11,28 @@ In high school I started coding with Turbo Pascal and enjoyed programming with i
 
 I like gardening🥬🍎, cycling🚴 and reading books 📚, deep intense conversations🤓 and personality development - It is my childhood dream to become a programmer. 
 
-## EXPERTISE
-* Microsoft Office ⭐⭐⭐⭐
-* Excel ⭐⭐⭐⭐
-* VBA ⭐⭐⭐
-* SAP ⭐⭐⭐
-* C ⭐⭐⭐
-* C++ 98 ⭐⭐⭐
-* Typescript ⭐⭐
-* Linux ⭐⭐
-* Bash ⭐
-* Docker ⭐
-* MySQL ⭐
+> If we take everything in life for granted, we may overlook the really important things in our lives. And we only notice what is really important when it is no longer there.
 
-## 🗣 Languages
-* 🇩🇪 German - native speaker  ⭐⭐⭐⭐
-* 🇬🇧 English - fluent B2      ⭐⭐⭐
+## EXPERTISE
+| Topic | Rating |
+| - | - |
+| Microsoft Office | ⭐⭐⭐⭐ |
+| Excel            | ⭐⭐⭐⭐ |
+| VBA              | ⭐⭐⭐ |
+| SAP              | ⭐⭐⭐ |
+| C                | ⭐⭐⭐ |
+| C++ 98           | ⭐⭐⭐ |
+| Typescript       | ⭐⭐ |
+| Linux            | ⭐⭐ |
+| Bash             | ⭐ |
+| Docker           | ⭐ |
+| MySQL            | ⭐ |
+
+## Languages
+| Language | Rating | |
+| - | - | - |
+| German | ⭐⭐⭐⭐ | native speaker |
+| English | ⭐⭐⭐ | fluent B2 |
 
 ## INTERESTS
 
