@@ -3,11 +3,11 @@
 | - | - |
 From | 🇩🇪 Germany - 🏙️ Berlin
 Currently living in | 🏙️  Berlin
-Age | 41
+Age | 44
 
-Hi my name is René Kaufmann, I am 41 years life experienced and was born in germany Berlin. I am working on my career change into the IT industry right now. 
+Hi my name is René Putzönius, I am 44 years life experienced and was born in germany Berlin. I am working on my career change into the IT industry right now. 
 
-In high school I started coding with Turbo Pascal and enjoyed programming with it. But I learned a profession in electrical engineering 🔌 and tried out a lot of different works 🪛 🔧 ,  now I work as an order manager in an office with SAP, Outlook and EXCEL! So later I started programming with Visual Basic and VBA via self study. I really like to write code for office automation in VBA. The last project is for SAP scripting with VBA.
+In high school I started coding with Turbo Pascal and enjoyed programming with it. But I learned a profession in electrical engineering 🔌 and tried out a lot of different works 🪛 🔧 ,  now I work as an production controller in an office with SAP, Outlook and EXCEL! So later I started programming with Visual Basic and VBA via self study. I really like to write code for office automation in VBA. The last project is for SAP scripting with VBA.
 
 I like gardening🥬🍎, cycling🚴 and reading books 📚, deep intense conversations🤓 and personality development - It is my childhood dream to become a programmer. 
 
@@ -22,6 +22,8 @@ I like gardening🥬🍎, cycling🚴 and reading books 📚, deep intense conve
 | SAP              | ⭐⭐⭐ |
 | C                | ⭐⭐⭐ |
 | C++ 98           | ⭐⭐⭐ |
+| PHP              | ⭐⭐ |
+| SQL              | ⭐⭐ |
 | Typescript       | ⭐⭐ |
 | Linux            | ⭐⭐ |
 | Bash             | ⭐ |
